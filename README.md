@@ -32,6 +32,6 @@
   <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/
   <img alt="Express.js" src="https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB"/>
   <img alt="TypeScript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img alt="GoLang" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=golang&logoColor=white"/>
-  <img alt="C" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=c&logoColor=white"/>
+  <img alt="GoLang" src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white"/>
+  <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 </p>
